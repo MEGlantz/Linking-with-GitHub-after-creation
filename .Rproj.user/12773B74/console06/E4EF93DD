@@ -1,0 +1,7 @@
+]0;~/programming/Linking with GitHub after creation[?1034hMarys-MBP:Linking with GitHub after creation Mary$ [KMarys-MBP:Linking with GitHub after creation Mary$ list
+bash: list: command not found
+]0;~/programming/Linking with GitHub after creationMarys-MBP:Linking with GitHub after creation Mary$ dir
+bash: dir: command not found
+]0;~/programming/Linking with GitHub after creationMarys-MBP:Linking with GitHub after creation Mary$ i[Kgit init
+Initialized empty Git repository in /Users/Mary/programming/Linking with GitHub after creation/.git/
+]0;~/programming/Linking with GitHub after creationMarys-MBP:Linking with GitHub after creation Mary$ git add .
